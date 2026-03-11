@@ -36,3 +36,11 @@ Random Forest Regressor
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+## Feature Importance
+
+![Feature Importance](feature_importances.png)
+
+## Correlation Heatmap
+
+![Correlation Heatmap](numerical_correlation_heatmap.png)
